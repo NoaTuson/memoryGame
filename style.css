@@ -7,7 +7,7 @@ html {
 body {
 	direction: rtl;
 	background-color: #f0c493;
-	background: linear-gradient(135deg, #faa018, #f0c493);
+	background: linear-gradient(to bottom, #ffbf5e 40%, #ffa012 40%);
 }
 
 * {
