@@ -6,7 +6,7 @@ html {
 
 body {
 	direction: rtl;
-	background-color: #f4c531;
+	background-color: #f0c493;
 }
 
 * {
@@ -20,6 +20,7 @@ h1 {
 	text-align: center;
 	color: white;
 	margin: 16px;
+	
 }
 
 .frame {
@@ -34,7 +35,7 @@ h2 {
 }
 
 button {
-	background-color: #8bc34a;
+	background-color: #c3a94a;
 	color: white;
 	padding: 8px 12px;
 	border-radius: 6px;
@@ -42,7 +43,7 @@ button {
 }
 
 button:hover {
-	background-color: #a4d967;
+	background-color: #c8b676;
 }
 
 .board {
@@ -61,7 +62,7 @@ button:hover {
 	padding: 10px;
 	width: 90px;
 	height: 90px;
-	background-color: #f9d86e;
+	background-color: #f9b86e;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -70,7 +71,7 @@ button:hover {
 	color: white;
 	border-radius: 12px;
 	transition: 0.3s;
-	box-shadow: 0px 0px 4.5px rgb(49, 36, 10);
+	box-shadow: 0px 2px 5px rgb(49, 36, 10);
 }
 
 .board div span {
